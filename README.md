@@ -8,5 +8,5 @@ chmod +x *
 
 then pass the backup file as an argument to restore the packages
 ```
-restore.sh backup.txt
+./restore.sh backup.txt
 ```
